@@ -87,3 +87,6 @@
 
 ## 克隆库
 > git clone git@github.com:user_name/repository_name.git
+
+## !!!!!!!!!!!!!
+> git pull origin master ----allow-unrelated-histories
