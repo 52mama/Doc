@@ -101,7 +101,7 @@
 > git branch dev
 
 ## 转换分支
-> git checkout dev
+> git switch dev
 
 ## 合并分支
 把dev分支合并到当前分支
