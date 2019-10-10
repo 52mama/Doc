@@ -135,5 +135,3 @@
 > git stash pop
 
 
-bug
-fuck
