@@ -107,9 +107,10 @@
 把dev分支合并到当前分支
 > git merge dev 
 
+## 终止合并状态
+> git merge --abort
+> 
 ## 删除分支
 > git branch -d dev 
 
 
-
-asdasd
