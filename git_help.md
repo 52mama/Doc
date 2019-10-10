@@ -113,6 +113,23 @@
 ## 删除分支
 > git branch -d dev 
 
+## 删除分支后依旧保留分支信息的合并
+> git merge --no-ff -m "merge with no-ff" dev
 
 
+# 现场
 
+## 保存现场
+> git stash 
+
+## 列举现场
+> git stash list
+
+## 恢复
+> git stash apply
+ 
+## 删除
+> git stash drop
+
+## 恢复并删除
+> git stash pop
