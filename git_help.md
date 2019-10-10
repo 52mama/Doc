@@ -135,6 +135,6 @@
 > git stash pop
 
 
-bug
+
 
 programing
