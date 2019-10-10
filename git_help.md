@@ -90,3 +90,22 @@
 
 ## !!!!!!!!!!!!!****
 > git pull origin master ----allow-unrelated-histories
+
+
+# 分支
+
+## list 分支
+> git branch
+
+## 创建分支
+> git branch dev
+
+## 转换分支
+> git checkout dev
+
+## 合并分支
+把dev分支合并到当前分支
+> git merge dev 
+
+## 删除分支
+> git branch -d dev 
