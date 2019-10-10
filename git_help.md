@@ -133,3 +133,7 @@
 
 ## 恢复并删除
 > git stash pop
+
+
+bug
+fuck
