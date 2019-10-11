@@ -134,6 +134,8 @@
 ## 恢复并删除
 > git stash pop
 
+## 复制一个特定的提交到本分支
+> git cherry-pick 4c805e2
 
 shabiwanyi
 
